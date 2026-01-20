@@ -1,56 +1,73 @@
-# ⚡ Eljon Blantucas
-**Full-Cycle Product Owner & Computer Engineer** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eljon-blantucas-61997920a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<div align="center">
+  <h1>👋 I'm Eljon Blantucas</h1>
+  <p><b>Computer Engineer | Technical Product Owner | AI Master Trainer</b></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/eljon-blantucas-61997920a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Bridging+Code+%26+Product;Building+Autonomous+Systems;AI+Ready+ASEAN+Trainer" alt="Typing SVG" />
+</div>
+
+<br/>
+
+### 🚀 Professional Engineering & Product DNA
+I bridge the gap between **technical architecture** and **business value**. As a Product Owner with an Engineering background, I don't just manage backlogs—I understand the code, the hardware, and the user impact.
+
+- 🎓 **Graduate:** BS Computer Engineering (June 2025)
+- 🤖 **AI Impact:** Trained **5,000+ students** as an AI Master Trainer for the AI Ready ASEAN Program.
+- 💼 **Startup Experience:** Rapidly transitioned from Software Engineer to Technical PO and GTM specialist.
+- 📍 **Location:** Bohol, Philippines (Remote Ready)
 
 ---
 
-### 🛠️ Professional Engineering & Product DNA
-I bridge the gap between **technical architecture** and **business value**. As a Product Owner with an Engineering background, I don't just manage backlogs—I understand the code, the hardware, and the user.
+### 🛠️ Featured Projects
 
-* **Current Focus:** Scaling AI literacy and building autonomous environmental solutions.
-* **Key Achievement:** Trained over **5,000 students** as an AI Master Trainer (AI Ready ASEAN).
-* **Startup Experience:** Rapidly transitioned from Software Engineer to Technical PO and GTM specialist.
-
----
-
-### 🚀 Featured Projects
-
-#### 🌊 [Project EBBTide](https://github.com/jojoneku/ebbtide-yolo-trashdetect) 
-*Autonomous Hybrid Marine System*
-- **Role:** Lead Engineer / Architect
-- **Tech:** Python, YOLOv8 (Computer Vision), Embedded Systems.
-- **Impact:** Designed an AI-powered boat for trash detection and environmental monitoring.
-
-#### 📱 [Nudgr: Fasting Habit App](https://github.com/jojoneku/nudgr-fasting-habit-app)
-*Wellness Tracking Solution*
-- **Role:** Designer & Developer
-- **Tech:** Flutter, Dart, Clean Architecture.
-- **Impact:** Built a high-performance mobile UI focused on UX/UI and user consistency.
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🌊 <a href="https://github.com/jojoneku/ebbtide-yolo-trashdetect">Project EBBTide</a></h4>
+      <p><i>Autonomous Hybrid Marine System</i></p>
+      <ul>
+        <li><b>Tech:</b> Python, YOLOv8, OpenCV, Embedded C++.</li>
+        <li><b>Impact:</b> Designed an AI-powered boat for real-time trash detection and marine monitoring.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>📱 <a href="https://github.com/jojoneku/nudgr-fasting-habit-app">Nudgr: Fasting App</a></h4>
+      <p><i>Wellness Tracking Solution</i></p>
+      <ul>
+        <li><b>Tech:</b> Flutter, Dart, Clean Architecture.</li>
+        <li><b>Impact:</b> Developed a high-performance mobile UI focusing on UX psychology and habit consistency.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Technical Arsenal
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Development** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Cloud & AI** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) |
-| **Product & Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-SCRUM-blue?style=flat-square) |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,aws,fastapi,figma,github,git,linux,postman,vscode&perline=6" />
+</p>
 
 ---
 
 ### 📈 Evidence of Impact
-![Eljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&rank_icon=github&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jojoneku&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📜 Certifications & Achievements
-- **AI Master Trainer** (AI Ready ASEAN Program)
-- **Computer Engineering Graduate** (June 2025)
-- **Startup GTM Strategy** (Internal Role Transition)
-
----
-
-> "I build products that are technically sound and commercially viable."
+<div align="center">
+  <p><i>"Building tech that matters, one commit at a time."</i></p>
+</div>
