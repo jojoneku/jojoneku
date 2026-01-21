@@ -53,21 +53,15 @@ I bridge the gap between **technical architecture** and **business value**. As a
 
 ### 📈 Evidence of Impact
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/jojoneku">
-        <img height="170" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="15" style="border: none;"></td>
-    <td align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/jojoneku">
-        <img height="170" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/jojoneku">
+    <img height="165" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jojoneku">
+    <img height="165" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
