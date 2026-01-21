@@ -13,11 +13,12 @@
 <br/>
 
 ### 🚀 Professional Engineering & Product DNA
-I bridge the gap between **technical architecture** and **business value**. As a Product Owner with an Engineering background, I don't just manage backlogs—I understand the code, the hardware, and the user.
+I bridge the gap between **technical architecture** and **business value**. As a Product Owner with an Engineering background, I don't just manage backlogs—I understand the code, the hardware, and the user impact.
 
 - 🤖 **AI Impact:** Trained **5,000+ students** as an AI Master Trainer for the AI Ready ASEAN Program.
-- 💼 **Startup Experience:** Transitioned from Software Engineer to Technical PO and GTM specialist.
+- 💼 **Startup Experience:** Rapidly transitioned from Software Engineer to Technical PO and GTM specialist.
 - 🎓 **Graduate:** BS Computer Engineering from Bohol Island State University (BISU).
+- 📍 **Location:** Bohol, Philippines (Remote Ready)
 
 ---
 
@@ -30,7 +31,7 @@ I bridge the gap between **technical architecture** and **business value**. As a
       <p><i>Autonomous Hybrid Marine System</i></p>
       <ul>
         <li><b>Tech:</b> Python, YOLOv8, OpenCV, Embedded Systems.</li>
-        <li><b>Impact:</b> AI-powered boat for real-time marine trash detection.</li>
+        <li><b>Impact:</b> Designed AI-powered boat for real-time trash detection.</li>
       </ul>
     </td>
     <td width="50%">
@@ -38,7 +39,7 @@ I bridge the gap between **technical architecture** and **business value**. As a
       <p><i>Wellness Tracking Solution</i></p>
       <ul>
         <li><b>Tech:</b> Flutter, Dart, Clean Architecture.</li>
-        <li><b>Impact:</b> High-performance UI/UX for wellness and habit tracking.</li>
+        <li><b>Impact:</b> Developed high-performance UI/UX for wellness habit tracking.</li>
       </ul>
     </td>
   </tr>
@@ -55,8 +56,12 @@ I bridge the gap between **technical architecture** and **business value**. As a
 
 ### 📈 Evidence of Impact
 <p align="center">
-  <img height="180" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" />
-  <img height="180" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" />
+  <a href="https://github.com/jojoneku">
+    <img height="180" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" />
+  </a>
+  <a href="https://github.com/jojoneku">
+    <img height="180" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" />
+  </a>
 </p>
 
 <p align="center">
