@@ -55,11 +55,11 @@ I bridge the gap between **technical architecture** and **business value**. As a
 
 <p align="center">
   <a href="https://github.com/jojoneku">
-    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/jojoneku">
-    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
   </a>
 </p>
 
