@@ -30,61 +30,38 @@ I bridge the gap between **technical architecture** and **business value**. As a
 
 ### 🛠️ Featured Projects
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github.com/jojoneku/ebbtide-yolo-trashdetect">
-        <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=ebbtide-yolo-trashdetect&theme=dark&show_owner=false&border_radius=15" alt="Project EBBTide" />
-      </a>
-    </td>
-    <td width="15" style="border: none;"></td>
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github.com/jojoneku/nudgr-fasting-habit-app">
-        <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=nudgr-fasting-habit-app&theme=dark&show_owner=false&border_radius=15" alt="Nudgr App" />
-      </a>
-    </td>
-  </tr>
-  <tr height="15" style="border: none;">
-     <td style="border: none;"></td>
-     <td style="border: none;"></td>
-     <td style="border: none;"></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github.com/jojoneku/jmakers_qrscanner_mobile">
-        <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmakers_qrscanner_mobile&theme=dark&show_owner=false&border_radius=15" alt="J-Maker QR" />
-      </a>
-    </td>
-    <td width="15" style="border: none;"></td>
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github.com/jojoneku/jmaker_fablab">
-        <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmaker_fablab&theme=dark&show_owner=false&border_radius=15" alt="J-Maker FabLab" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/jojoneku/ebbtide-yolo-trashdetect">
+    <img height="160" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=ebbtide-yolo-trashdetect&theme=dark&show_owner=false&border_radius=10" alt="Project EBBTide" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jojoneku/nudgr-fasting-habit-app">
+    <img height="160" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=nudgr-fasting-habit-app&theme=dark&show_owner=false&border_radius=10" alt="Nudgr App" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/jojoneku/jmakers_qrscanner_mobile">
+    <img height="160" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmakers_qrscanner_mobile&theme=dark&show_owner=false&border_radius=10" alt="J-Maker QR" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jojoneku/jmaker_fablab">
+    <img height="160" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmaker_fablab&theme=dark&show_owner=false&border_radius=10" alt="J-Maker FabLab" />
+  </a>
+</p>
 
 ---
 
 ### 📈 Evidence of Impact
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github.com/jojoneku">
-        <img height="195" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="12" style="border: none;"></td>
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github.com/jojoneku">
-        <img height="195" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <a href="https://github.com/jojoneku">
+    <img height="180" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jojoneku">
+    <img height="180" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
+  </a>
+</p>
 
 <div align="center">
   <p><i>"Building tech that matters, one commit at a time."</i></p>
