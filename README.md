@@ -15,7 +15,7 @@
 ### 🚀 Professional Engineering & Product DNA
 I bridge the gap between **technical architecture** and **business value**. As a Product Owner with an Engineering background, I manage backlogs with a deep understanding of code, hardware, and user impact.
 
-- 🤖 **AI Impact:** Trained **5,000+ students** as an AI Master Trainer for the AI Ready ASEAN Program.
+- 🤖 **AI Impact:** Trained **4,000+ students** as an AI Master Trainer for the AI Ready ASEAN Program.
 - 💼 **Startup Experience:** Transitioned from Software Engineer to Technical PO and GTM specialist.
 - 🎓 **Graduate:** BS Computer Engineering from Bohol Island State University (BISU).
 
@@ -64,7 +64,7 @@ I bridge the gap between **technical architecture** and **business value**. As a
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jojoneku/jojoneku/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/jojoneku/jojoneku/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
