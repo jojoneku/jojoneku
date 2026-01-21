@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://www.linkedin.com/in/eljon-blantucas-61997920a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:eljonblantucas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Bridging+Code+%26+Product;Building+Autonomous+Systems;AI+Ready+ASEAN+Trainer" alt="Typing SVG" />
@@ -12,25 +12,44 @@
 
 <br/>
 
-### 🚀 Professional DNA
+### 🚀 Professional Engineering & Product DNA
+I bridge the gap between **technical architecture** and **business value**. As a Product Owner with an Engineering background, I don't just manage backlogs—I understand the code, the hardware, and the user.
+
 - 🤖 **AI Impact:** Trained **5,000+ students** as an AI Master Trainer for the AI Ready ASEAN Program.
 - 💼 **Startup Experience:** Transitioned from Software Engineer to Technical PO and GTM specialist.
+- 🎓 **Graduate:** BS Computer Engineering from Bohol Island State University (BISU).
 
 ---
 
 ### 🛠️ Featured Projects
+
 <table>
   <tr>
     <td width="50%">
       <h4>🌊 <a href="https://github.com/jojoneku/ebbtide-yolo-trashdetect">Project EBBTide</a></h4>
-      <p>Python, YOLOv8. AI-powered boat for real-time trash detection.</p>
+      <p><i>Autonomous Hybrid Marine System</i></p>
+      <ul>
+        <li><b>Tech:</b> Python, YOLOv8, OpenCV, Embedded Systems.</li>
+        <li><b>Impact:</b> AI-powered boat for real-time marine trash detection.</li>
+      </ul>
     </td>
     <td width="50%">
       <h4>📱 <a href="https://github.com/jojoneku/nudgr-fasting-habit-app">Nudgr: Fasting App</a></h4>
-      <p>Flutter, Dart. High-performance UI/UX for wellness habit tracking.</p>
+      <p><i>Wellness Tracking Solution</i></p>
+      <ul>
+        <li><b>Tech:</b> Flutter, Dart, Clean Architecture.</li>
+        <li><b>Impact:</b> High-performance UI/UX for wellness and habit tracking.</li>
+      </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### 💻 Technical Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,aws,fastapi,figma,github,git,linux,postman,vscode&perline=6" />
+</p>
 
 ---
 
