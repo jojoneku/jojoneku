@@ -32,20 +32,20 @@ I bridge the gap between **technical architecture** and **business value**. As a
 
 <p align="center">
   <a href="https://github.com/jojoneku/ebbtide-yolo-trashdetect">
-    <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=ebbtide-yolo-trashdetect&theme=dark&show_owner=false&border_radius=10&description=AI%20trash%20detection%20system%20for%20boats" alt="Project EBBTide" />
+    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=ebbtide-yolo-trashdetect&theme=dark&show_owner=false&border_radius=10&description=AI%20trash%20detection%20system%20for%20boats" alt="Project EBBTide" />
   </a>
   &nbsp;
   <a href="https://github.com/jojoneku/nudgr-fasting-habit-app">
-    <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=nudgr-fasting-habit-app&theme=dark&show_owner=false&border_radius=10&description=Gamified%20wellness%20app%20for%20fasting%20and%20habits" alt="Nudgr App" />
+    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=nudgr-fasting-habit-app&theme=dark&show_owner=false&border_radius=10&description=Gamified%20wellness%20app%20for%20fasting%20and%20habits" alt="Nudgr App" />
   </a>
   <br/>
   <br/>
   <a href="https://github.com/jojoneku/jmakers_qrscanner_mobile">
-    <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmakers_qrscanner_mobile&theme=dark&show_owner=false&border_radius=10&description=QR-based%20attendance%20scanner" alt="J-Maker QR" />
+    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmakers_qrscanner_mobile&theme=dark&show_owner=false&border_radius=10&description=QR-based%20attendance%20scanner" alt="J-Maker QR" />
   </a>
   &nbsp;
   <a href="https://github.com/jojoneku/jmaker_fablab">
-    <img height="150" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmaker_fablab&theme=dark&show_owner=false&border_radius=10&description=Attendance%20management%20system%20for%20FabLab%20Bohol" alt="J-Maker FabLab" />
+    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/pin/?username=jojoneku&repo=jmaker_fablab&theme=dark&show_owner=false&border_radius=10&description=Attendance%20management%20system%20for%20FabLab%20Bohol" alt="J-Maker FabLab" />
   </a>
 </p>
 
@@ -55,16 +55,16 @@ I bridge the gap between **technical architecture** and **business value**. As a
 
 <p align="center">
   <a href="https://github.com/jojoneku">
-    <img height="165" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api?username=jojoneku&show_icons=true&theme=dark&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/jojoneku">
-    <img height="165" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
+    <img width="400" src="https://github-readme-stats-kappa-lemon-18.vercel.app/api/top-langs/?username=jojoneku&layout=compact&theme=dark&border_radius=10&hide=html,css" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jojoneku/jojoneku/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img width="815" src="https://raw.githubusercontent.com/jojoneku/jojoneku/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
